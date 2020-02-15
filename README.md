@@ -9,5 +9,6 @@ Lots of variety stores of asian products with similar concept as MINISO opened r
 There are same neighborhood some places have a high demand while there are others hardly getting any profit, The objective of the following analysis is to check where would be popular in a determined neighborhood, and which neighborhood has a better acceptance for that kind.
 
 ## 2) A description of the data and how it will be used to solve the problem.¶
-List of postal codes of Mexico city followed by theirs borough and neighborhood name. https://micodigopostal.org/ciudad-de-mexico/
-I used the Foursquare API to explore the top venues of a given neighborhood.
+1. List of postal codes of Mexico city followed by theirs borough and neighborhood name. This is the link to download the excel file: https://www.correosdemexico.gob.mx/SSLServicios/ConsultaCP/Descarga.aspx
+2. I used the Foursquare API to explore the top venues of a given neighborhood.
+
